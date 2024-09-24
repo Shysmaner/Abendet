@@ -1,0 +1,1 @@
+.title-h2{position:absolute;font-weight:1000;color:#2daddc;margin-left:10%;margin-top:20px}.products{padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}.products div{display:inline-block}.products button{width:100%}@media (max-width: 950px){.title-h2{margin-top:115px}}
